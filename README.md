@@ -8,12 +8,7 @@ This project involves text classification using machine learning techniques to d
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Preprocessing](#preprocessing)
-- [Model Training](#model-training)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
+
 
 ## Description
 Hope speech detection in social media texts is essential for fostering supportive online communities and amplifying positive and motivational content. However, identifying this content manually is cumbersome due to the ever-growing amount of user-generated social media text. Further, the characteristics of user-generated text, particularly when the information is subtle or masked by sarcasm, make it more challenging.
