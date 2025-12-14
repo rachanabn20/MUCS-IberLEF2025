@@ -54,7 +54,3 @@ You can install these libraries using pip:
 ```bash
 pip install pandas numpy seaborn nltk contractions scikit-learn tokenizers emoji num2words
 
-
-
-
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=U4Y8VT8AAAAJ&sortby=pubdate&citation_for_view=U4Y8VT8AAAAJ:XD-gHx7UXLsC
